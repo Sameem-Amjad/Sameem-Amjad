@@ -1,5 +1,4 @@
 ### Hey! 👋 I'm Sameem. Let's Connect
-- 🙃 A Cute Lad.
 - 💻 A Computer Science Student.
 - 👩‍ Python and Java developer.
 - 📝 Reading, Gaming and exploring Computer field.
