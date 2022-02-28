@@ -28,3 +28,4 @@
   <a><img alt="Sameem Amjad's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-Amjad&langs_count=10&hide=html&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
+![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
