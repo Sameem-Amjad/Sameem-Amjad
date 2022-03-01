@@ -7,7 +7,7 @@
 <!--Social Icons!-->
 
 #
-### Connect Me
+### Reach Me out
 <p align="left">
 <a href="https://mobile.twitter.com/SameemAmjad">
 <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
