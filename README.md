@@ -29,3 +29,7 @@
   <br/>
   
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
+
+<!--Profile view counter added -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sameem-Amjad&label=Profile%20views&color=red&style=flat"  /> </p>
+
