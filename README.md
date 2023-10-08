@@ -76,7 +76,7 @@ I'm Sameem Amjad, a passionate software engineer with expertise in various techn
 
 ### 🔝 Top Contributed Repo
 
-<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=SameemAmjad&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true"/></div>
+<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Sameem-Amjad&limit=5&theme=jolly&combine_all_yearly_contributions=true"/></div>
 
 
 ### 😂 Random Dev Meme
