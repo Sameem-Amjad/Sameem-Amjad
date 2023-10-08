@@ -32,8 +32,11 @@ I'm Sameem Amjad, a passionate software engineer with expertise in various techn
 # 📊 GitHub Stats:
 
 <div align="center" >
-   <img src="https://github-readme-stats.vercel.app/api?username=Sameem-Amjad&theme=jolly&hide_border=false&include_all_commits=false&count_private=false"/><br/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameem-Amjad&theme=jolly&hide_border=false"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-Amjad&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+![](https://github-readme-stats.vercel.app/api?username=Sameem-Amjad&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sameem-Amjad&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-Amjad&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+   
 </div>
 
 <br/>
@@ -83,8 +86,12 @@ I'm Sameem Amjad, a passionate software engineer with expertise in various techn
 ---
 <!--Profile view counter added -->
 ## 🔥 Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sameem-Amjad">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Sameem-Amjad?label=Followers&style=social" alt="GitHub Badge"></a>
+[![](https://visitcount.itsvg.in/api?id=Sameem-Amjad&icon=6&color=6)](https://visitcount.itsvg.in)
+<br/>
+<a href="https://github.com/Sameem-Amjad?tab=followers"><img src="https://img.shields.io/github/followers/Sameem-Amjad?label=Followers&style=social" alt="GitHub Badge"></a>
 
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
