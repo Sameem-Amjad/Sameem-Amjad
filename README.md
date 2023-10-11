@@ -35,7 +35,8 @@ I'm Sameem Amjad, a passionate software engineer with expertise in various techn
 
 ![](https://github-readme-stats.vercel.app/api?username=Sameem-Amjad&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sameem-Amjad&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-Amjad&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+ <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameem-Amjad&layout=compact&langs_count=7&theme=jolly"/> -->
    
 </div>
 
