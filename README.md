@@ -10,7 +10,8 @@ I'm Sameem Amjad, a passionate software engineer with expertise in various techn
 ⚡ **Fun fact: I like watching Anime and Horror Movies and Web Series.**<br/>
 
 <div align="center">
-   <img src="https://github.com/SameemAmjad/SameemAmjad/assets/147207393/5ae745b5-b055-4a50-b89b-43060ee1dbfa" />
+   
+  ![animation](https://github.com/Sameem-Amjad/Sameem-Amjad/assets/92137575/6c3be685-e34c-40e1-a3e8-f648f48f5a5f)
 </div>
                                    
 
